@@ -4,7 +4,7 @@
     "<modversion>": "<changelog for this version>", 
     "1.0 - latest RECOMMENDED version"
   },
-  ...
+  
   "promos": {
     "<mcversion>-latest": "<modversion>",
     "1.0 latest version"
